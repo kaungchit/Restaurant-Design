@@ -1,0 +1,5 @@
+{
+  "name": "L'Éclat Gastronomique",
+  "description": "A premium dining experience website featuring elegant design, smooth animations, and a seamless reservation system.",
+  "requestFramePermissions": ["geolocation"]
+}
